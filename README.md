@@ -8,7 +8,7 @@
 # 数据说明
 train.csv-训练集
 test.csv-测试集
-data_description.txt-每个列的完整描述，最初由Dean De Cock编写，但经过精心编辑以匹配此处使用的列名
+data_description.txt-每个列的完整描述
 sample_submission.csv-根据销售年份和月份，很多平方英尺和卧室数量进行线性回归的基准提交
 
 # 评测指标
